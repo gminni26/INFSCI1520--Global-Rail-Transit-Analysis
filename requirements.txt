@@ -1,0 +1,10 @@
+wbgapi
+cartopy
+geopandas
+scipy
+scikit-learn
+networkx
+matplotlib
+pandas
+numpy
+shapely

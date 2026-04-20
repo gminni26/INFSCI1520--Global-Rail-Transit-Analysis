@@ -1,6 +1,6 @@
 # Global Rail Transit: Infrastructure, Progression & Geographic Reach
 
-**INFSCI 1520 — Information Visualization — Final Project**
+**INFSCI 2415 — Information Visualization — Final Project**
 
 ## Overview
 Four-figure visualization of global rail infrastructure using World Bank time-series data and Natural Earth geometry. Covers rail density, network growth/decline, regional clustering, and high-speed rail connectivity gaps.
